@@ -1,0 +1,24 @@
+button {
+    width: 250px;
+    height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #ffff;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.boton-aumentar {
+    background-color: green;
+
+}
+
+.boton-restar {
+    background-color: red;
+}
+
+.boton-reiniciar {
+    background-color: blue;
+}

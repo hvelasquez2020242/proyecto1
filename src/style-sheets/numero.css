@@ -1,0 +1,33 @@
+.contador{
+    min-width: 300px;
+    height: 200px;
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.numero-positivo{
+    min-width: 300px;
+    height: 200px;
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center; 
+}
+.numero-negativo{
+    min-width: 300px;
+    height: 200px;
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center; 
+}

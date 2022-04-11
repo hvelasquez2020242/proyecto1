@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.App {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.logoLevelUp {
+    width: 100%;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-levelUp {
+    height: 350px;
+}
+
+.titulo {
+    color: #ffff;
+    text-align: center;
+    font-size: 80px;
+}
